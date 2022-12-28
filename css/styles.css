@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Handlee', cursive;
+    font-size: 5.625em;
+    color: #05326d;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #25aaaa;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color:#167974;
+}
+
+hr {
+    width: 5%;
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #167974;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #47ddd6;
+}
+
+.btn {
+    background: #73f5d0;
+    background-image: -webkit-linear-gradient(top, #73f5d0, #008c75);
+    background-image: -moz-linear-gradient(top, #73f5d0, #008c75);
+    background-image: -ms-linear-gradient(top, #73f5d0, #008c75);
+    background-image: -o-linear-gradient(top, #73f5d0, #008c75);
+    background-image: linear-gradient(to bottom, #73f5d0, #008c75);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #4acea9;
+    text-decoration: none;
+  }
+
+.top-container {
+    background-color: #C3F8FF;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.skill-row {
+    width: 40%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #C3F8FF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.profile, .skills, .contact-me {
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.top-cloud {
+    width: 10%;
+    position: absolute;
+    top: 50px;
+    right: 25%;
+}
+
+.bottom-cloud {
+    width: 10%;
+    position: absolute;
+    bottom: 30%;
+    left: 25%;
+}
+
+.mountain {
+    width: 40%;
+    position: relative;
+    right: -30%;
+}
+
+.profile-img {
+    width: 9%;
+}
+
+.coding-img {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.system-design-img {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-btn {
+    margin-top: 200px;
+}
+
+.copyright {
+    color: #279c93;
+    font-size: 0.75rem;
+    margin-bottom: 0;
+}
