@@ -65,6 +65,7 @@ a:hover {
   
   .btn:hover {
     background: #4acea9;
+    color: #ffffff !important;
     text-decoration: none;
   }
 
